@@ -1,0 +1,9 @@
+torch
+transformers
+sentence-transformers
+pandas
+faiss-cpu==1.6.1
+numpy
+folium==0.2.1
+streamlit==0.62.0
+-e .
